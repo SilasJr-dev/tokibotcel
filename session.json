@@ -119,16 +119,7 @@
       "11": null,
       "12": null,
       "13": null,
-      "14": {
-        "private": {
-          "type": "Buffer",
-          "data": "OHgkNO7t2HRvpsW4jZASBG+YjjNEA4InC1BUDK7u3FY="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "N6bghGkNJ4mmLFvuSjLFwkinFyB2Oykqdi29XvlwSw8="
-        }
-      },
+      "14": null,
       "15": null,
       "16": null,
       "17": null,
@@ -511,8 +502,8 @@
               },
               "BZ+oCtndqCt6rVAMqHxfyW2XydXDwDjgl5NEkIfUOmpd": {
                 "chainKey": {
-                  "counter": 19,
-                  "key": "DDHnCP0YPPjPN+qrDdoVL8XxwLcbsjt6jg3LUUC/30s="
+                  "counter": 21,
+                  "key": "fflm6Y+w02ZRjQNHQn7NbU+/IiUYnHTPRZ2gdzhCRN4="
                 },
                 "chainType": 1,
                 "messageKeys": {}
@@ -1168,8 +1159,8 @@
               },
               "BVDi6R/t+LouMRA5n4S1KFoiEbtYuwEeSwO6zTIihLYS": {
                 "chainKey": {
-                  "counter": -1,
-                  "key": "EcrRpWw34XpmwFEgt1Odqr8simrIpkFJjhVFg38D1KA="
+                  "counter": 1,
+                  "key": "YncoKVYWfJ87Ww1d8n68I8aq4GYP8azRFlHtH15nboM="
                 },
                 "chainType": 1,
                 "messageKeys": {}
@@ -1196,7 +1187,7 @@
               "baseKey": "BX+jfm4UzzeQdj8bYnD4t2miASXrfMcu/ZwrW+iEHwRD",
               "baseKeyType": 1,
               "closed": -1,
-              "used": 1658497929577,
+              "used": 1658518764814,
               "created": 1658337665152,
               "remoteIdentityKey": "BY2SyKvd1RarMIdc3+Ex8aCjvz2657jtgoHrngERPpYS"
             },
@@ -1266,16 +1257,16 @@
               },
               "BbA9E8OmAfGAtXjufs2SjNal8c8XUEMzI3+Bi/bpjfNc": {
                 "chainKey": {
-                  "counter": 2,
-                  "key": "sOcaX2sYc6yxV3ppjbwG4986ri48vEZJt7xkhcjW6V0="
+                  "counter": 3,
+                  "key": "fJg0gzggfp+BDRgpJnaBms25qfkBDedsMGCINarKuHc="
                 },
                 "chainType": 2,
                 "messageKeys": {}
               },
               "BcK2+QCuBcswVnmjWOVNqTSmHLAbLlTwKwZnBgYx+2wW": {
                 "chainKey": {
-                  "counter": -1,
-                  "key": "px7J53PdOqInazq1Tf3l47AocBfD5SIIaRMEq6qhDCQ="
+                  "counter": 0,
+                  "key": "Uz5WOVL1NfyUgDeJZDc0xpH37S3hiV1udUqwPWJ59Zo="
                 },
                 "chainType": 1,
                 "messageKeys": {}
@@ -1309,8 +1300,8 @@
             "_chains": {
               "BVxfP7xhpTCWsD3glfwE64XUSqOeG60aLTosdhOMnp54": {
                 "chainKey": {
-                  "counter": 100,
-                  "key": "4c6U+jnWs+AAlgerNXZx+ADS1lyQycRlkPQVTjaw1lI="
+                  "counter": 101,
+                  "key": "4kUUHFTAVKWEB88MmMubt/4qgqCQ7GuoKoPtXntTaBs="
                 },
                 "chainType": 1,
                 "messageKeys": {}
@@ -4720,6 +4711,49 @@
           }
         },
         "version": "v1"
+      },
+      "558599181359.0": {
+        "_sessions": {
+          "Bfqcwu3P1McCGWHtIeVXIO8o0uaJPr6BEaaowqWEEAUv": {
+            "registrationId": 1645773435,
+            "currentRatchet": {
+              "ephemeralKeyPair": {
+                "pubKey": "BRnt/3S+e497WoJXDTnmmXZrvPdmjfWv09jg5E1dS6sY",
+                "privKey": "GCAZpMf4+TdQ+J71POS+kbByZgQN+2FF7Bx0QR3b4Xc="
+              },
+              "lastRemoteEphemeralKey": "BcDvEPDneSxJvLOv51Ijd53LqD8FCpi2xzFEhJIUA4YL",
+              "previousCounter": 0,
+              "rootKey": "3SXh1Am+S1WA+cUIoOrobTgcKZvDSPyVHLrI9FdM1l0="
+            },
+            "indexInfo": {
+              "baseKey": "Bfqcwu3P1McCGWHtIeVXIO8o0uaJPr6BEaaowqWEEAUv",
+              "baseKeyType": 2,
+              "closed": -1,
+              "used": 1658518684792,
+              "created": 1658518684792,
+              "remoteIdentityKey": "Bau3JzDItHWt9zMBhukKMURWgcRO+ohULOTZEcDT2zUL"
+            },
+            "_chains": {
+              "BcDvEPDneSxJvLOv51Ijd53LqD8FCpi2xzFEhJIUA4YL": {
+                "chainKey": {
+                  "counter": 0,
+                  "key": "eLrQWzQy9pBeZCuWAQGGkb+kO6cS7ZDD0lECgj4awOo="
+                },
+                "chainType": 2,
+                "messageKeys": {}
+              },
+              "BRnt/3S+e497WoJXDTnmmXZrvPdmjfWv09jg5E1dS6sY": {
+                "chainKey": {
+                  "counter": -1,
+                  "key": "tRpiBDxoZz44Pi2raqqOMgdzMOYKQ2UcCMQFEVR3Y4Y="
+                },
+                "chainType": 1,
+                "messageKeys": {}
+              }
+            }
+          }
+        },
+        "version": "v1"
       }
     },
     "appStateSyncKeys": {
@@ -4901,8 +4935,8 @@
         {
           "senderKeyId": 1776601698,
           "senderChainKey": {
-            "iteration": 154,
-            "seed": "GdbM9o3V1j/dun39YpI+uY0yyXN8hgw+XHDD81GhLCg="
+            "iteration": 163,
+            "seed": "GAj0JKFrca7FebRLLjt/qXtpx3ki5T4oOaczENqdYP8="
           },
           "senderSigningKey": {
             "public": "BRWLZUq5ooqmIrlXu4VxB/T7s2rT3TiPSg0HR75T5est",
@@ -4962,13 +4996,14 @@
           },
           "senderSigningKey": {
             "public": "BVXvMJvjHyj5D/q+j7ff7662LlCdyrOjZLxtFLKcVHVv"
-          }
+          },
+          "senderMessageKeys": []
         },
         {
           "senderKeyId": 1606379463,
           "senderChainKey": {
-            "iteration": 27,
-            "seed": "cfPbbMq8G4rr2BW32EB1I5YtDU0EJ2vJNdt5e7vrjZQ="
+            "iteration": 51,
+            "seed": "YvSRcigzDvve+lFnMTz8U0VCMas0LvXJC3IrQmngFEI="
           },
           "senderSigningKey": {
             "public": "Bb7NtdUquvJc0IwQtIiCYsiMpSnp8/uaESjBMWQ9DiAy"
@@ -5025,7 +5060,23 @@
             {
               "iteration": 25,
               "seed": "1Gqi6DyXbdyX4JQx45ivgxeQbztRm2iQXvfCsRqR9dM="
-            }
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
           ]
         }
       ],

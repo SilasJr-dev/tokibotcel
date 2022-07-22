@@ -2,12 +2,28 @@
   "users": {
     "554497433716@s.whatsapp.net": {
       "afkTime": -1,
-      "afkReason": "",
-      "limit": "Infinity"
+      "afkReason": ""
     }
   },
   "chats": {
     "120363041642923181@g.us": {
+      "mute": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": true,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "autoblock": false
+    },
+    "554497433716@s.whatsapp.net": {
       "mute": false,
       "wame": false,
       "antilink": false,
